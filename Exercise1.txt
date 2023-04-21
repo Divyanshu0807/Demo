@@ -1,0 +1,9 @@
+1. Create an account on Github
+2. Download and install Git software on your system
+Open command prompt
+git config --global user.name "Your name"
+git config --global user.email "Your email"
+3. On your github account create a repository
+4. In your laptop create a new folder and go inside and open command prompt/terminal
+5. Run the sample commands (on the repository page) on your system
+6. Refresh and check whether the file is appearing on Github or not

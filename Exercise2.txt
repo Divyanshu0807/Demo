@@ -1,0 +1,5 @@
+1. Make a new Repository on Github
+2. Make a folder on your laptop. Make some files and folders and commit it.
+3. Make changes by adding, editing or deleting files and folders and then again commit it.
+4. Push the changes on remote repository.
+5. On your Github repository send invite to manishhurkat@yahoo.com
